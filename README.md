@@ -25,4 +25,4 @@ A simple C program that generates a personal finance dashboard in HTML based on 
 2. Enter your income and expenses
 3. Set a savings goal
 4. The program generates a file:  finance_dashboard.html
-5. 5. Open it in your browser
+5. Open it in your browser
